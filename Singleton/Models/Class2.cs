@@ -15,7 +15,7 @@ namespace Singleton.Models
         private readonly DatabaseSingleton _singleton;
         public Class2(string name)
         {
-            /*_id = id;*/
+            
             _name = name;
             
         }

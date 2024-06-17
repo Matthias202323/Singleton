@@ -16,9 +16,9 @@ namespace Singleton.Models
         public DBContext _context {  get; set; }
         public Class1(string name)
         {   
-           /* _id = id;*/
+           
             _name = name;
-           /* _context = context;*/
+           
         }
 
     }
